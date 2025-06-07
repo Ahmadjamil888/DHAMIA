@@ -13,6 +13,12 @@ const nextConfig = {
     compiler: "modern",
     silenceDeprecations: ["legacy-js-api"],
   },
+  images: {
+    domains: [
+      "avatars.githubusercontent.com",
+      // add more domains here if needed
+    ],
+  },
 };
 
 export default withMDX(nextConfig);

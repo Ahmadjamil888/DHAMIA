@@ -50,16 +50,16 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
         {title && (
           <Flex flex={5}>
             <Heading as="h2" wrap="balance" variant="heading-strong-xl">
-              {title}
+              Exclusive website design for production level startups
             </Heading>
           </Flex>
         )}
         {(avatars?.length > 0 || description?.trim() || content?.trim()) && (
           <Column flex={7} gap="16">
-            {avatars?.length > 0 && <AvatarGroup avatars={avatars} size="m" reverse />}
+            {}
             {description?.trim() && (
               <Text wrap="balance" variant="body-default-s" onBackground="neutral-weak">
-                {description}
+                A seemless and modern website design that showcases the startup's unique value proposition and helps them stand out in a competitive market.
               </Text>
             )}
             <Flex gap="24" wrap>
@@ -67,7 +67,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
                 <SmartLink
                   suffixIcon="arrowRight"
                   style={{ margin: "0", width: "fit-content" }}
-                  href={href}
+                  href="https://github.com/Ahmadjamil888/ARMANsoft/blob/main/README.md"
                 >
                   <Text variant="body-default-s">Read case study</Text>
                 </SmartLink>
@@ -76,7 +76,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
                 <SmartLink
                   suffixIcon="arrowUpRightFromSquare"
                   style={{ margin: "0", width: "fit-content" }}
-                  href={link}
+                  href="https://github.com/Ahmadjamil888/ARMANsoft"
                 >
                   <Text variant="body-default-s">View project</Text>
                 </SmartLink>
