@@ -1,17 +1,13 @@
-# **Magic Portfolio by Once UI**
-
-View the [demo here](https://demo.magic-portfolio.com).
-
-![Magic Portfolio](https://demo.magic-portfolio.com/images/og/home.jpg)
+# **Welcome to my portfolio**
 
 
 # **Getting started**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+Magic Portfolio was built with [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/Ahmadjamil888/DHAMIA.git
 ```
 
 **2. Install dependencies**
@@ -38,15 +34,6 @@ src/app/resources/content
 ```
 Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 ```
-
-# **Documentation**
-
-Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfolio/quick-start)
-
-# **Features**
-
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
