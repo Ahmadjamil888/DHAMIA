@@ -5,6 +5,9 @@
 
 Magic Portfolio was built with [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
+<img src="https://github.com/user-attachments/assets/5f6085f3-a492-4d5b-86d5-4a8fb3b3b78c">
+
+
 **1. Clone the repository**
 ```
 git clone https://github.com/Ahmadjamil888/DHAMIA.git
