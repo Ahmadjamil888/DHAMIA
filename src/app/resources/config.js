@@ -1,5 +1,5 @@
 // IMPORTANT: Replace with your own domain address - it's used for SEO in meta tags and schema
-const baseURL = "http:localhost:3000";
+const baseURL = "https://dhamia.vercel.app/";
 
 const routes = {
   "/": true,
